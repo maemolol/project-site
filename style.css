@@ -1,0 +1,19 @@
+img {
+    width: 25vw;
+    min-width: 100px;
+}
+
+.shop {
+    display: flex;
+    width: 50vw;
+}
+  
+.shop-item {
+    flex: 1;
+    margin: 5px;
+}
+  
+.shop-item:first-child {
+    margin-right: 10px;
+}
+  
